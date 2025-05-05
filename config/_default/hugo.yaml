@@ -6,7 +6,7 @@
 # Website name
 title: Partakin :)
 # Website URL
-baseURL: 'https://partakin.org'
+baseURL: 'https://partakin.org/'
 
 ############################
 ## LANGUAGE
